@@ -23,7 +23,7 @@
 
 - :computer: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
-- :zap: Looking for new job opportunity with Ruby on Rails ideally :gem: (open to otherlanguage too).
+- :zap: Looking for new job opportunity with Ruby on Rails ideally :gem: (open to other language too).
 
 - :bike: In my free time, I explore other programming language and also practice Xcountry(biking and running).
 
