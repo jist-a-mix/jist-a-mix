@@ -25,7 +25,7 @@
 
 - :zap: Looking for new job opportunity with Ruby on Rails ideally :gem: (open to other language too).
 
-- :bike: In my free time, I explore other programming language and also practice Xcountry(biking and running).
+- :bike: In my free time, I explore other programming languages and also practice Xcountry(biking and running).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mickael-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/miji-dev))
 
