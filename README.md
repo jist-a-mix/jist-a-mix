@@ -1,16 +1,19 @@
-### Hi there 👋
+<div id="header">
+  <a href="https://www.linkedin.com/in/miji-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  <div align = "center">
+  
+# Hi there 👋
 
-<!--
-**jist-a-mix/jist-a-mix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljN2E5YzRiNDBkNTEyOGJiMGY4NWM1ZjRmMDU2Y2ZjYTQyZGVhNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/1afuwyOsr5E8X9CuRV/giphy.gif" width="600" height="300"/>
+</div>
+
+
