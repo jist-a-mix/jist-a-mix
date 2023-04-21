@@ -51,4 +51,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
+---
 
+### :fire: My Stats 
+
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=jist-a-mix&theme=chartreuse-dark&hide_border=true&border_radius=40)](https://git.io/streak-stats)
+  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jist-a-mix&layout=compact&border_radius=40&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
